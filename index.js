@@ -17,4 +17,4 @@ function countDown(integer) {
   }
 }
 
-countDown(); 
+countDown(10); 
