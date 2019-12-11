@@ -5,3 +5,5 @@ function writeCards(array) {
     console.log(`Thank you, ${array[i]}, for the wonderful birthday gift!`);
   }
 }
+
+writeCards; 
