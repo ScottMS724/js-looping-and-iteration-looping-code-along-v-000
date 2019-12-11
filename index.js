@@ -1,1 +1,1 @@
-function writeCards()
+function writeCards(array, event)
