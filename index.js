@@ -1,4 +1,4 @@
-array = ["Lisa", "Kaitlin", "Jan"];
+const array = ["Lisa", "Kaitlin", "Jan"];
 
 function writeCards(array) {
   for (let i = 0; i < array.length; i++) {
