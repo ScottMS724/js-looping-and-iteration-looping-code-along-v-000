@@ -14,8 +14,7 @@ writeCards(array, birthday);
 
 function countDown(integer) {
   while (integer >= 0) {
-    console.log(`${integer}`);
-    integer--; 
+    console.log(integer--);
   }
 }
 
