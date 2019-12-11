@@ -8,8 +8,6 @@ function writeCards(array, event) {
   return thankYouCards;
 }
 
-writeCards(array, birthday); 
-
 
 
 function countDown(integer) {
