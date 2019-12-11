@@ -13,7 +13,7 @@ writeCards();
 function countDown(integer) {
   while (integer >= 0) {
     console.log(`${integer}`);
-    integer--; 
+    integer -= 1; 
   }
 }
 
