@@ -6,7 +6,7 @@ function writeCards(array, event) {
   }
 }
 
-writeCards(); 
+writeCards(array, birthday); 
 
 
 
