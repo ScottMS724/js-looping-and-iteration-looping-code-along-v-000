@@ -6,4 +6,4 @@ function writeCards(array) {
   }
 }
 
-writeCards; 
+writeCards(); 
