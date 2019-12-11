@@ -7,3 +7,11 @@ function writeCards(array) {
 }
 
 writeCards(); 
+
+
+
+function countDown(integer) {
+  while (integer >= 0) {
+    console.log (integer++);
+  }
+}
