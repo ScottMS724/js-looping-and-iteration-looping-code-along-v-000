@@ -17,5 +17,3 @@ function countDown(integer) {
     console.log(integer--);
   }
 }
-
-countDown(10); 
